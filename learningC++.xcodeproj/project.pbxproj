@@ -51,6 +51,7 @@
 		9477134F23EF3597005404C5 /* Q1_13.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Q1_13.cpp; sourceTree = "<group>"; };
 		9477135423EF35B8005404C5 /* Q1_13 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Q1_13; sourceTree = BUILT_PRODUCTS_DIR; };
 		9477135623EF35B8005404C5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		9477135D23EF3C70005404C5 /* GCC_4_7_0 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = GCC_4_7_0; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		9477132D23EE7429005404C5 = {
 			isa = PBXGroup;
 			children = (
+				9477135D23EF3C70005404C5 /* GCC_4_7_0 */,
 				9477133823EE7429005404C5 /* learningC++ */,
 				9477134823EF33E6005404C5 /* Q1_11 */,
 				9477135523EF35B8005404C5 /* Q1_13 */,

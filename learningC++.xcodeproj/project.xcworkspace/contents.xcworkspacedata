@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../GCC_4_7_0">
+   </FileRef>
+   <FileRef
       location = "self:learningC++.xcodeproj">
    </FileRef>
 </Workspace>
