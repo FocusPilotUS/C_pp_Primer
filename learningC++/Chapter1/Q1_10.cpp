@@ -10,6 +10,10 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "Hello, World!\n";
+    int current_num = 10;
+    while (current_num >= 0) {
+        std::cout << current_num << std::endl;
+        --current_num;
+    }
     return 0;
 }
